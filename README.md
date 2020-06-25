@@ -22,4 +22,4 @@
 ⋅⋅⋅Rama Jorge agrega carpeta ccs img y hace commit para agregarlos⋅⋅
 
 
-![alt text](https://github.com/JorgeCuatin/colaborativo3/blob/jorge/img/Captura1.JPG?raw=true "Creando carpetas y archivos")
+![alt text](https://github.com/JorgeCuatin/colaborativo3/blob/jorge/img/Captura%203.JPG?raw=true "Creando carpetas y archivos")
