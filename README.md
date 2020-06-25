@@ -16,7 +16,10 @@
 * Pantallazo Reset --hard  recuperando archivos
 
 
-* Pantallazo primeros commits
-... Rama Miguel agrega archivo index y README 
-... Rama Jorge agrega carpeta ccs img y hace commit para agregarlos
+1. Pantallazo primeros commits
+
+⋅⋅⋅Rama Miguel agrega archivo index y README 
+⋅⋅⋅Rama Jorge agrega carpeta ccs img y hace commit para agregarlos
+
+
 ![alt text](https://github.com/JorgeCuatin/colaborativo3/blob/jorge/img/Captura1.JPG?raw=true "Creando carpetas y archivos")
